@@ -11,6 +11,7 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
+#include <jemalloc/jemalloc.h>
 
 #include <bits/stdc++.h>
 
